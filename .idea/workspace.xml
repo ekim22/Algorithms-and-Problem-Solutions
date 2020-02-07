@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="bbbcb8bc-b0da-4f4b-b8d2-347eb869eb73" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GroovyConsoleState">
+    <option name="list">
+      <list>
+        <Entry>
+          <option name="moduleName" value="Algorithms and Problem Solutions" />
+          <option name="url" value="file://$APPLICATION_CONFIG_DIR$/consoles/groovy/groovy_console.groovy" />
+        </Entry>
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1Wc8jCSl9Tp0Es2ZAkW5SMXHDpg" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="extract.method.default.visibility" value="private" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Desktop" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="RunManager" selected="Application.TwoSum">
+    <configuration name="AddTwoNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="AddTwoNumbers" />
+      <module name="Algorithms and Problem Solutions" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TwoSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TwoSum" />
+      <module name="Algorithms and Problem Solutions" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.TwoSum" />
+        <item itemvalue="Application.AddTwoNumbers" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="bbbcb8bc-b0da-4f4b-b8d2-347eb869eb73" name="Default Changelist" comment="" />
+      <created>1579437655613</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1579437655613</updated>
+      <workItem from="1579437657340" duration="6443000" />
+      <workItem from="1580477939268" duration="10647000" />
+      <workItem from="1581093269986" duration="732000" />
+    </task>
+    <task id="LOCAL-00001" summary="Initial APAS files.">
+      <created>1581093441698</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1581093441698</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$USER_HOME$/Desktop" />
+      <path value="$PROJECT_DIR$" />
+    </ignored-roots>
+    <MESSAGE value="Initial APAS files." />
+    <option name="LAST_COMMIT_MESSAGE" value="Initial APAS files." />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1725" y="235" key="#com.intellij.ide.util.MemberChooser" timestamp="1580654208811">
+      <screen x="0" y="30" width="2560" height="1050" />
+    </state>
+    <state x="1725" y="235" key="#com.intellij.ide.util.MemberChooser/0.30.2560.1050/-1920.30.1920.1050@0.30.2560.1050" timestamp="1580654208811" />
+    <state x="1077" y="64" key="CommitChangelistDialog2" timestamp="1581093441094">
+      <screen x="0" y="30" width="2560" height="1050" />
+    </state>
+    <state x="1077" y="64" key="CommitChangelistDialog2/0.30.2560.1050/-1920.30.1920.1050@0.30.2560.1050" timestamp="1581093441094" />
+    <state x="1271" y="297" key="FileChooserDialogImpl" timestamp="1580477991984">
+      <screen x="0" y="30" width="2560" height="1050" />
+    </state>
+    <state x="1271" y="297" key="FileChooserDialogImpl/0.30.2560.1050/-1920.30.1920.1050@0.30.2560.1050" timestamp="1580477991984" />
+    <state width="1234" height="329" key="GridCell.Tab.0.bottom" timestamp="1580698580980">
+      <screen x="0" y="30" width="2560" height="1050" />
+    </state>
+    <state width="1234" height="329" key="GridCell.Tab.0.bottom/0.30.2560.1050/-1920.30.1920.1050@0.30.2560.1050" timestamp="1580698580980" />
+    <state width="1234" height="329" key="GridCell.Tab.0.center" timestamp="1580698580979">
+      <screen x="0" y="30" width="2560" height="1050" />
+    </state>
+    <state width="1234" height="329" key="GridCell.Tab.0.center/0.30.2560.1050/-1920.30.1920.1050@0.30.2560.1050" timestamp="1580698580979" />
+    <state width="1234" height="329" key="GridCell.Tab.0.left" timestamp="1580698580979">
+      <screen x="0" y="30" width="2560" height="1050" />
+    </state>
+    <state width="1234" height="329" key="GridCell.Tab.0.left/0.30.2560.1050/-1920.30.1920.1050@0.30.2560.1050" timestamp="1580698580979" />
+    <state width="1234" height="329" key="GridCell.Tab.0.right" timestamp="1580698580979">
+      <screen x="0" y="30" width="2560" height="1050" />
+    </state>
+    <state width="1234" height="329" key="GridCell.Tab.0.right/0.30.2560.1050/-1920.30.1920.1050@0.30.2560.1050" timestamp="1580698580979" />
+    <state width="1234" height="329" key="GridCell.Tab.1.bottom" timestamp="1580698580980">
+      <screen x="0" y="30" width="2560" height="1050" />
+    </state>
+    <state width="1234" height="329" key="GridCell.Tab.1.bottom/0.30.2560.1050/-1920.30.1920.1050@0.30.2560.1050" timestamp="1580698580980" />
+    <state width="1234" height="329" key="GridCell.Tab.1.center" timestamp="1580698580980">
+      <screen x="0" y="30" width="2560" height="1050" />
+    </state>
+    <state width="1234" height="329" key="GridCell.Tab.1.center/0.30.2560.1050/-1920.30.1920.1050@0.30.2560.1050" timestamp="1580698580980" />
+    <state width="1234" height="329" key="GridCell.Tab.1.left" timestamp="1580698580980">
+      <screen x="0" y="30" width="2560" height="1050" />
+    </state>
+    <state width="1234" height="329" key="GridCell.Tab.1.left/0.30.2560.1050/-1920.30.1920.1050@0.30.2560.1050" timestamp="1580698580980" />
+    <state width="1234" height="329" key="GridCell.Tab.1.right" timestamp="1580698580980">
+      <screen x="0" y="30" width="2560" height="1050" />
+    </state>
+    <state width="1234" height="329" key="GridCell.Tab.1.right/0.30.2560.1050/-1920.30.1920.1050@0.30.2560.1050" timestamp="1580698580980" />
+    <state x="992" y="198" key="SettingsEditor" timestamp="1580478120057">
+      <screen x="0" y="30" width="2560" height="1050" />
+    </state>
+    <state x="992" y="198" key="SettingsEditor/0.30.2560.1050/-1920.30.1920.1050@0.30.2560.1050" timestamp="1580478120057" />
+    <state x="1083" y="285" key="Vcs.Push.Dialog.v2" timestamp="1581093451256">
+      <screen x="0" y="30" width="2560" height="1050" />
+    </state>
+    <state x="1083" y="285" key="Vcs.Push.Dialog.v2/0.30.2560.1050/-1920.30.1920.1050@0.30.2560.1050" timestamp="1581093451256" />
+    <state x="1373" y="130" width="1094" height="857" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog" timestamp="1581094002359">
+      <screen x="0" y="30" width="2560" height="1050" />
+    </state>
+    <state x="1373" y="130" width="1094" height="857" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog/0.30.2560.1050/-1920.30.1920.1050@0.30.2560.1050" timestamp="1581094002359" />
+    <state x="1167" y="380" key="com.intellij.ide.util.TipDialog" timestamp="1581093272578">
+      <screen x="0" y="30" width="2560" height="1050" />
+    </state>
+    <state x="1167" y="380" key="com.intellij.ide.util.TipDialog/0.30.2560.1050/-1920.30.1920.1050@0.30.2560.1050" timestamp="1581093272578" />
+    <state x="1298" y="468" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1581093519009">
+      <screen x="0" y="30" width="2560" height="1050" />
+    </state>
+    <state x="1298" y="468" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.30.2560.1050/-1920.30.1920.1050@0.30.2560.1050" timestamp="1581093519009" />
+    <state x="1650" y="315" key="extract.method.dialog" timestamp="1579442826120">
+      <screen x="0" y="30" width="2560" height="1050" />
+    </state>
+    <state x="1650" y="315" key="extract.method.dialog/0.30.2560.1050/-1920.30.1920.1050@0.30.2560.1050" timestamp="1579442826120" />
+    <state x="1154" y="261" width="672" height="678" key="search.everywhere.popup" timestamp="1580478243351">
+      <screen x="0" y="30" width="2560" height="1050" />
+    </state>
+    <state x="1154" y="261" width="672" height="678" key="search.everywhere.popup/0.30.2560.1050/-1920.30.1920.1050@0.30.2560.1050" timestamp="1580478243351" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/TwoSum.java</url>
+          <line>41</line>
+          <properties class="TwoSum" method="twoSum">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
